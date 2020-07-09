@@ -1,4 +1,4 @@
-![](./images/hithere.png)
+![](https://github.com/taenykim/taenykim/blob/master/images/hithere.png?raw=true)
 
 ### I'm TaenyKim. 😀
 
