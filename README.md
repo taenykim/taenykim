@@ -2,7 +2,7 @@
 
 ### I'm TaenyKim. 😀
 
-I'm Interested in
+Interested in
 
 - 🌎 Web
 - 🎨 Graphic : CSS, Canvas, Animation, Interaction
