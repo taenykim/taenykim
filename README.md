@@ -13,3 +13,4 @@ Interested in
 - 🎨 Graphic : CSS, Canvas, Animation, Interaction
 - 🖥 FrontEnd : JS, TS, React
 - 🌸 UX
+- 🌳 My little forest : [Blog](https://taeny.dev/)
