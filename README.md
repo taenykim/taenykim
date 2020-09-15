@@ -1,5 +1,6 @@
-![](./images/profile.gif)
-
+<p align="center">
+  <img src="https://github.com/taenykim/taenykim/blob/master/images/profile.gif">
+</p>
 ### I'm TaenyKim. 😀
 
 Interested in
