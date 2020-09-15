@@ -1,9 +1,4 @@
-![](https://github.com/taenykim/taenykim/blob/master/images/hithere.png?raw=true)
-
-<div style="font-size:8pt" align="center">
-    <sup>This image was created by <a href="https://github.com/taenykim/interactive-pixelator">Interactive-pixelator</a>
-    </sup>
-</div>
+![](./images/profile.gif)
 
 ### I'm TaenyKim. 😀
 
