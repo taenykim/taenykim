@@ -13,7 +13,3 @@ Interested in
 - 🖥 FrontEnd : JS, TS, React
 - 🌸 UX
 - 🌳 My little forest : [Blog](https://taeny.dev/)
-
-<img width="500px" src="https://github.com/taenykim/taenykim/blob/master/images/purple.png" alt="purple-coding">
-
-<sub>source : <a href="https://github.com/taenykim/interactive-pixelator" target="_blank">https://github.com/taenykim/interactive-pixelator</a></sub>
