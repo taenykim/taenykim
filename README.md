@@ -4,7 +4,7 @@
 </p>
 
 
-## I'm TaenyKim. 😀
+## I'm TaenyKim. 🙂
 
 Interested in
 
@@ -12,8 +12,6 @@ Interested in
 - 🎨 Graphic : CSS, SVG, Canvas, Animation, Interaction
 - 🖥 FrontEnd : JS, TS, React
 - 🌸 UX
-
-## Nowadays 
 
 I am
 
