@@ -4,7 +4,7 @@
 </p>
 
 
-### I'm TaenyKim. 😀
+## I'm TaenyKim. 😀
 
 Interested in
 
@@ -12,4 +12,11 @@ Interested in
 - 🎨 Graphic : CSS, SVG, Canvas, Animation, Interaction
 - 🖥 FrontEnd : JS, TS, React
 - 🌸 UX
-- 🌳 My little forest : [Blog](https://taeny.dev/)
+
+## Nowadays 
+
+I am
+
+- 🛠 working [as a front engineer](https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe)
+- 🔮 studying [web graphics](https://github.com/taenykim/awesome-web-graphics)
+- 🚚 prepare [for blog migration](https://github.com/taenykim/taenykim_blog/issues/58)
