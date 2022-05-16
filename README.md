@@ -17,4 +17,4 @@ I am
 
 - 🛠 working [as a front engineer](https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe)
 - 🔮 studying [web graphics](https://github.com/taenykim/awesome-web-graphics)
-- 🚚 prepare [for blog migration](https://github.com/taenykim/taenykim_blog/issues/58)
+- 🚚 preparing [for blog migration](https://github.com/taenykim/taenykim_blog/issues/58)
