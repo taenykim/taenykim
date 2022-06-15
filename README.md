@@ -1,20 +1,16 @@
-<p align="center">
-  <img src="https://github.com/taenykim/taenykim/blob/master/images/hello.gif" alt="hello-svg-animation">
-  <sub>source : <a href="https://github.com/taenykim/svg-animation" target="_blank">https://github.com/taenykim/svg-animation</a></sub>
-</p>
+### I am
 
+- 👋 taeny kim 
+- 🛠 working [as a front engineer](https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe)
+- 🔮 studying [web graphics](https://github.com/taenykim/awesome-web-graphics)
+- 🌳 growing a [blog](https://taeny.dev) **please welcome!** ✨
 
-## I'm TaenyKim. 🙂
-
-Interested in
-
+### Interested in (Tech)
 - 🌎 Web
 - 🎨 Graphic : CSS, SVG, Canvas, Animation, Interaction
 - 🖥 FrontEnd : JS, TS, React
 - 🌸 UX
-
-I am
-
-- 🛠 working [as a front engineer](https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe)
-- 🔮 studying [web graphics](https://github.com/taenykim/awesome-web-graphics)
-- 🌳 growing a [blog](https://taeny.dev) **please welcome!** ✨
+ 
+### Interested in (Others)
+- 🎾 Tennis
+- 🏋️‍♀️ Crossfit
