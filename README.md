@@ -1,7 +1,7 @@
 ### I am
 
 - 👋 taeeun kim 
-- 🛠 working [as a front engineer](https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe)
+- 🛠 working [as a web frontend engineer](https://naver-career.gitbook.io/kr/service/search/reliability-platform/search-fe)
 - 🔮 studying [web graphics](https://github.com/taenykim/awesome-web-graphics)
 - 🌳 growing a [blog](https://taeny.dev) **please welcome!** ✨
 
